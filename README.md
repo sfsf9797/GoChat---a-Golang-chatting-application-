@@ -1,5 +1,4 @@
-# GoChat---a-Golang-chatting-application-
-<<<<<<< HEAD
-a web chatting application with golang and react js
-=======
->>>>>>> 929d675 (gitignore)
+# GoChat---a-Golang-chatting-application
+
+
+You can then access the application at http://localhost:3000/ after doing NPM Start in the frontend Folder
